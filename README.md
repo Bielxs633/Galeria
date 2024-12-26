@@ -18,6 +18,13 @@ O objetivo deste projeto é colocar em prática os conhecimentos adquiridos sobr
 - Markdown
 - git
 
+</br>
+
+![Skill](https://go-skill-icons.vercel.app/api/icons?i=html)
+![Skill](https://go-skill-icons.vercel.app/api/icons?i=css)
+![Skill](https://go-skill-icons.vercel.app/api/icons?i=markdown)
+![Skill](https://go-skill-icons.vercel.app/api/icons?i=git)
+
 ---
 
 ## Autor
